@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning Python/Typescript(React)/Kubernetes/etc...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheedah&count_private=true&theme=material-palenight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheedah&layout=compact&theme=material-palenight)
 
 <!---
 cheedah/cheedah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
